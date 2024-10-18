@@ -7,13 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year graduate student from CVNext@ZJU, supervised by Prof.Gaoang Wang. My research interest includes computer vision and transfer learning.
+I'm a third year graduate student from [CVNext@ZJU](https://cvnext.github.io), supervised by Prof.[Gaoang Wang](https://person.zju.edu.cn/gaoangwang/). My research interest includes computer vision and transfer learning.
 
-Bachelor: Beijing University of Posts and Telecommunications(BUPT), 2018 - 2022
+Bachelor at Beijing University of Posts and Telecommunications([BUPT](https://www.bupt.edu.cn)), 2018 - 2022
 
-Master: Zhejiang University, 2022 - 2025
+Master at Zhejiang University([ZJU](https://www.zju.edu.cn)), 2022 - 2025
 
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
