@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+I'm a third year graduate student from CVNext@ZJU, supervised by Prof.Gaoang Wang. My research interest includes computer vision and transfer learning.
 
-Bachelor of Computer Science, Beijing University of Posts and Telecommunications, 2018 - 2022
+Bachelor: Beijing University of Posts and Telecommunications(BUPT), 2018 - 2022
 
-Master of Computer Science, Zhejiang University, 2022 - 2025
+Master: Zhejiang University, 2022 - 2025
 
 
 For more info
