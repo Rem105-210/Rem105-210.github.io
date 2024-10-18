@@ -21,11 +21,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "./shidong.JPG"
   name             : "Shidong Cao"
   pronouns         : # example: "she/her"  
   location         : "Zhejiang, China"
-  uri              : # URL
+  uri              : "https://rem105-210.github.io"
   email            : "shidong.22@intl.zju.edu.cn" 
 
   # Academic websites
