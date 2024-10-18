@@ -10,6 +10,8 @@ redirect_from:
 
 Bachelor of Computer Science, Beijing University of Posts and Telecommunications, 2018 - 2022
 
+Master of Computer Science, Zhejiang University, 2022 - 2025
+
 
 For more info
 ------
