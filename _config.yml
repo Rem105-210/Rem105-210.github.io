@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./shidong.JPG"
+  avatar           : "IMG_3835.JPG"
   name             : "Shidong Cao"
   pronouns         : # example: "she/her"  
   location         : "Zhejiang, China"
