@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shidong Cao"
+title                    : "基于扩散模型的时装设计系统"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,14 +22,9 @@ repository               : "Rem105-210/Rem105-210.github.io"
 author:
   # Biographic information
   avatar           : "IMG_3835.png"
-  name             : "Shidong Cao"
+  name             : "基于扩散模型的时装设计系统"
   pronouns         : # example: "she/her"  
-  location         : "Zhejiang, China"
-  url              : "https://rem105-210.github.io"
-  email            : "shidong.22@intl.zju.edu.cn" 
-
-  # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=v-c_vTsAAAAJ&hl=zh-CN"
+  User_id         : "12312"
 
 
   # Repositories and software development
